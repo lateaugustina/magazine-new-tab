@@ -14,7 +14,7 @@ Magazine New Tab reimagines the browser's new tab as a visual playground, turnin
 
 A colorful, playful take on your new tab, full of energy and visual expression.
 
-![vibrant preview](assets/vibrant-preview.png)
+![vibrant preview](assets/vibrant-preview..png)
 
 **Demo**
 
