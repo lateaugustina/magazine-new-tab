@@ -4,7 +4,8 @@
 如果你喜欢的网站变成了杂志里的插画，会怎么样？
 Magazine New Tab 把你的新标签页变成一本杂志，将收藏的网址变成杂志的排版内容。
 ## 🎨 01 — Vibrant
-色彩丰富、具有活力与视觉表现力。
+1.色彩丰富、具有活力与视觉表现力  
+2.你可以选择点击顶部圆点切换颜色
 ![vibrant preview](assets/vibrant-preview..png)
 **演示：** [观看 Vibrant 演示](https://github.com/user-attachments/assets/5d0b67e6-c67a-428e-83e1-185ff13dfe76)
 ## 📰 02 — Editorial
