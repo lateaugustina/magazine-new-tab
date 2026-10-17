@@ -1,6 +1,6 @@
 [English](README.md) · [中文](README-zh.md)
 # 📖 Magazine New Tab - Chrome Extension (Manifest V3)
-**Turn your new tab into a magazine.**
+**Turn your new tab into a magazine.**  
 What if your favorite websites became illustrations in your own digital magazine?
 Magazine New Tab reimagines the browser's new tab as a visual playground, turning your favorite websites into part of a magazine-inspired experience.
 ## 🎨 01 — Vibrant
