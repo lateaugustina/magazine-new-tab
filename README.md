@@ -4,7 +4,7 @@
 What if your favorite websites became illustrations in your own digital magazine?
 Magazine New Tab reimagines the browser's new tab as a visual playground, turning your favorite websites into part of a magazine-inspired experience.
 ## 🎨 01 — Vibrant
-1.A colorful, playful take on your new tab, full of energy and visual expression.
+1.A colorful, playful take on your new tab, full of energy and visual expression.  
 2.You can switch colors by clicking the dots at the top.
 ![vibrant preview](assets/vibrant-preview..png)
 **Demo:** [Watch Vibrant Demo](https://github.com/user-attachments/assets/5d0b67e6-c67a-428e-83e1-185ff13dfe76)
