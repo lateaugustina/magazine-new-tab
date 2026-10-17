@@ -1,41 +1,20 @@
 [English](README.md) · [中文](README.zh-CN.md)
-
-# 📖 Magazine New Tab
-
-**把你的新标签页变成一本杂志。**
-
-如果你最喜欢的网站，能变成一本数字杂志里的插画，会怎么样？
-
-Magazine New Tab 将浏览器的新标签页变成一个充满视觉趣味的空间，让你收藏的网站变成杂志般的体验。
-
----
-
+# 📖 Magazine New Tab - Chrome 扩展（Manifest V3）
+**将你的新标签页变成一本杂志。**
+如果你喜欢的网站变成了杂志里的插画，会怎么样？
+Magazine New Tab 把你的新标签页变成一本杂志，将收藏的网址变成杂志的排版内容。
 ## 🎨 01 — Vibrant
-
-色彩鲜明、具有视觉表现力。
-![Vibrant 预览图](assets/vibrant-preview.png)
-
-**Demo**
-[vibrant-demo.gif](assets/vibrant-demo.gif)
-
----
-
+色彩丰富、具有活力与视觉表现力。
+![vibrant preview](assets/vibrant-preview..png)
+**演示：** [观看 Vibrant 演示](https://github.com/user-attachments/assets/5d0b67e6-c67a-428e-83e1-185ff13dfe76)
 ## 📰 02 — Editorial
-
-经典杂志版式。
-![Editorial 预览图](assets/editorial-preview.png)
-
-**Demo**
-[editorial-demo.gif](assets/editorial-demo.gif)
-
----
-
-## 🚀 开始体验
-
+经典杂志布局。
+![editorial preview](assets/editorial-preview.png)
+**演示：** [观看 Editorial 演示](https://github.com/user-attachments/assets/e2af9725-ee11-4fd3-ba3f-b34fdc3eb731)
+## 🚀 在 macOS 的 Chrome 上安装
 1. 下载或克隆本仓库。
 2. 在 Google Chrome 中打开 `chrome://extensions/`。
-3. 开启 **开发者模式**。
+3. 启用 **开发者模式**。
 4. 点击 **加载已解压的扩展程序**。
 5. 选择 `vibrant/` 或 `editorial/` 文件夹。
-
-打开一个新标签页，开始体验吧！🥰
+打开一个新标签页，尽情享受吧！🥰
