@@ -1,6 +1,6 @@
 [English](README.md) · [中文](README.zh-CN.md)
 # 📖 Magazine New Tab - Chrome 扩展（Manifest V3）
-**将你的新标签页变成一本杂志。**。
+**将你的新标签页变成一本杂志。**  
 如果你喜欢的网站变成了杂志里的插画，会怎么样？
 Magazine New Tab 把你的新标签页变成一本杂志，将收藏的网址变成杂志的排版内容。
 ## 🎨 01 — Vibrant
