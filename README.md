@@ -1,6 +1,6 @@
 [English](README.md) · [中文](README.zh-CN.md)
 
-# 📖 Magazine New Tab
+# 📖 Magazine New Tab - Chrome Extension (Manifest V3)
 
 **Turn your new tab into a magazine.**
 
@@ -34,7 +34,7 @@ A magazine-inspired experience shaped by typography, thoughtful layouts, and vis
 
 ---
 
-## 🚀 Try It Out
+## 🚀 ## Installation on macOS Chrome:
 
 1. Download or clone this repository.
 2. Open `chrome://extensions/` in Google Chrome.
