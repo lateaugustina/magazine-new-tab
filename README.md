@@ -1,4 +1,4 @@
-[English](README.md) · [中文](README.zh-CN.md)
+[English](README.md) · [中文](README-zh.md)
 # 📖 Magazine New Tab - Chrome Extension (Manifest V3)
 **Turn your new tab into a magazine.**
 What if your favorite websites became illustrations in your own digital magazine?
