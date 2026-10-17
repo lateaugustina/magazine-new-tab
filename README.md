@@ -14,11 +14,11 @@ Magazine New Tab reimagines the browser's new tab as a visual playground, turnin
 
 A colorful, playful take on your new tab, full of energy and visual expression.
 
-![Vibrant Preview](assets/vibrant-preview.png)
+![vibrant preview](assets/vibrant-preview.png)
 
 **Demo**
 
-[vibrant-demo.gif](assets/vibrant-demo.gif
+![vibrant demo](assets/vibrant-demo.mov)
 
 ---
 
@@ -26,11 +26,11 @@ A colorful, playful take on your new tab, full of energy and visual expression.
 
 A magazine-inspired experience shaped by typography, thoughtful layouts, and visual storytelling.
 
-![Editorial Preview](assets/editorial-preview.png)
+![editorial preview](assets/editorial-preview.png)
 
 **Demo**
 
-[editorial-demo.gif](assets/editorial-demo.gif)
+[editorial-demo](assets/editorial-demo.MOV)
 
 ---
 
